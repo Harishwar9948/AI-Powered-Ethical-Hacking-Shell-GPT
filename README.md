@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Ethical Hacking Automation with Shell-GPT
+#  AI-Powered Ethical Hacking Automation with Shell-GPT
 
 ## 📌 Overview
 This project demonstrates how **Shell-GPT** can be used to automate and streamline **ethical hacking workflows** — from reconnaissance to exploitation.  
@@ -6,13 +6,13 @@ It integrates **AI prompts** with popular security tools to enhance penetration 
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 > All activities in this project were conducted in a **controlled lab environment** using legally owned systems (Metasploitable 2, DVWA, Kali Linux).  
 > This repository is for **educational purposes only** and should not be used on unauthorized systems.
 
 ---
 
-## 🧪 Project Scope
+## Project Scope
 - Reconnaissance and enumeration  
 - Web vulnerability scanning  
 - Password brute-forcing  
@@ -22,7 +22,7 @@ It integrates **AI prompts** with popular security tools to enhance penetration 
 
 ---
 
-## 🛠️ Tools Integrated with AI
+## Tools Integrated with AI
 - **Nmap** – Network scanning & service detection
 - **Nikto** – Web server vulnerability scanning
 - **Hydra** – Password brute-forcing
@@ -34,7 +34,7 @@ It integrates **AI prompts** with popular security tools to enhance penetration 
 
 ---
 
-## 📄 Report Contents
+## Report Contents
 - Environment setup and prerequisites
 - Shell-GPT installation & configuration
 - Prompt engineering for penetration testing
@@ -44,12 +44,12 @@ It integrates **AI prompts** with popular security tools to enhance penetration 
 
 ---
 
-## 📂 Files in This Repo
+## Files in This Repo
 - `AI-Powered Ethical Hacking Automation with Shell-GPT_ From Recon to Exploitation.pdf`
 
 ---
 
-## 🎯 Learning Outcomes
+##Learning Outcomes
 By completing this project, I learned:
 - How to integrate AI with offensive security tools
 - Prompt engineering for security automation
